@@ -1,4 +1,14 @@
-## Olá! Eu sou a Ana Beatriz Borges
+<h1 align="center">Oi, Eu sou a Ana Beatriz</h1>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anabborges30/anabborges30/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anabborges30/anabborges30/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anabborges30/anabborges30/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <!--
 **anabborges30/anabborges30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
